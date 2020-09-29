@@ -1,19 +1,10 @@
-# movie app
-* this app is for getting information about movies and actors using tmbd api
+# Movies To Watch Android App
+* App is uses tmdb api for getting information about movies and actors.
 
 ## Covered topics:
-* MVVM and repo pattren
-* retriofit
+* MVVM and repo pattern
+* retrofit
 * Rxjava
-* Room for cache (up comming)
 
-## Screenshots
-![](p1.jpeg)
-![](p2.jpeg)
-![](p3.jpeg)
-![](p4.jpeg)
-![](p5.jpeg)
-![](p6.jpeg)
-![](p7.jpeg)
+## MIT License
 
-![](p8.jpeg)
